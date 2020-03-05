@@ -4,7 +4,7 @@
         <h3 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
             Demo Link
         </h3>
-    <a href="https://cs17b01.github.io/waterjugproblem.github.io/">WEB DEMO</a>
+    <a href="https://cs17b01.github.io/water-jug-ai.github.io/">WEB DEMO</a>
        <h3 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
             WATER JUG PROBLEM SERVER CODE
             (used express, node.js, ajax - xhttprequest, ejs)
